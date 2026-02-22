@@ -1,2 +1,2 @@
-# python-password-generator
+# python-projects
 My first Python project – password generator.
